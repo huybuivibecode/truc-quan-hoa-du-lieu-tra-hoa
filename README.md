@@ -4,10 +4,10 @@
 
 Dự án này bao gồm nhiều công cụ và phương pháp trực quan hóa dữ liệu khác nhau, từ xử lý dữ liệu cơ bản đến xây dựng biểu đồ tương tác và dashboard phân tích chuyên sâu.
 
-## 👤 Thông tin sinh viên
-- **Họ và tên:** Bùi Quang Huy
-- **Mã sinh viên:** 231124029210
-- **Lớp:** 49K29.2
+## 👤 Thông tin chủ sở hữu
+- **Chủ sở hữu:** Bùi Quang Huy
+- **Liên hệ:** buiquanghuy352k5@gmail.com
+
 
 ## 📁 Cấu trúc dự án
 
